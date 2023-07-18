@@ -1,8 +1,5 @@
 # Conclusion
 
-Chapter 9: Conclusion
-=====================
-
 In this book, we've explored the power of thoughtful listing and how it can help you organize your thoughts and ideas more effectively. We've discussed various techniques for creating lists, such as mind mapping, outlining, and bullet journaling, and how they can be used to improve productivity and clarity.
 
 Recap of the benefits of thoughtful listing
