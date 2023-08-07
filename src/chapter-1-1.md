@@ -36,17 +36,13 @@ To harness the power of thoughtful listing, consider incorporating these techniq
 
 Mind mapping involves creating visual representations of interconnected ideas. It begins with a central concept or theme and branches out into related thoughts. This technique encourages non-linear thinking, stimulating creativity and identifying new connections between ideas.
 
-Example:
-
-    Copy Code![Mind Map Example](mind_map.png)
-
 ### 2. Bullet Journaling
 
 Bullet journaling is a flexible organizational system that combines elements of listing, journaling, and planning. It utilizes symbols, bullet points, and different signifiers to categorize and prioritize tasks and ideas. This technique helps to track progress, set goals, and record reflections.
 
 Example:
 
-    Copy Code- [ ] Task 1
+    - [ ] Task 1
     - [x] Task 2
     - [>] Task 3
     - [!] Important Note
@@ -57,7 +53,7 @@ Outlining involves structuring thoughts or concepts hierarchically. It starts wi
 
 Example:
 
-    Copy Code1. Main Idea
+    1. Main Idea
         1.1 Subtopic 1
             - Point 1
             - Point 2
@@ -72,7 +68,7 @@ Numbered lists provide a sequential order to ideas, tasks, or steps. They establ
 
 Example:
 
-    Copy Code1. Step 1
+    1. Step 1
     2. Step 2
     3. Step 3
 
@@ -82,7 +78,7 @@ Checklists are useful for tracking progress, ensuring completion, and avoiding o
 
 Example:
 
-    Copy Code- [ ] Task 1
+    - [ ] Task 1
     - [ ] Task 2
     - [ ] Task 3
 

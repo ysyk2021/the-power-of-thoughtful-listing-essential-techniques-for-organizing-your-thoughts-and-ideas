@@ -8,7 +8,7 @@ In this chapter, we will explore various tools and software options that can be 
 
 Markdown is a lightweight markup language that allows you to format text in a simple and readable manner. It is widely used for creating documents, notes, and lists. Markdown offers a straightforward syntax that can be easily converted into various formats like HTML or PDF. Here's an example of how Markdown can be used:
 
-    Copy Code**Example List:**
+    **Example List:**
     - Item 1
     - Item 2
     - Item 3

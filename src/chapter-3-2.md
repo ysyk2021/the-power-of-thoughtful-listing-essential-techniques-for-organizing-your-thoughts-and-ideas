@@ -8,7 +8,7 @@ In this chapter, we will explore various examples of lists that can significantl
 
 A to-do list is a fundamental tool for task management. It helps capture all the tasks that need to be completed, ensuring nothing falls through the cracks. Here's an example of a to-do list:
 
-    Copy Code- [ ] Finish report
+    - [ ] Finish report
     - [ ] Schedule meeting with team
     - [ ] Respond to emails
     - [ ] Research new project ideas
@@ -18,7 +18,7 @@ A to-do list is a fundamental tool for task management. It helps capture all the
 
 A daily planner provides a structured overview of your day, allowing you to allocate time to specific tasks and activities. This promotes effective time management and ensures that important tasks are prioritized. Here's an example of a daily planner:
 
-    Copy Code| Time          | Task                           |
+    | Time          | Task                           |
     |---------------|--------------------------------|
     | 8:00 AM       | Morning exercise               |
     | 9:00 AM       | Meeting with client A          |
@@ -33,7 +33,7 @@ A daily planner provides a structured overview of your day, allowing you to allo
 
 A project checklist helps ensure that no essential steps or components are overlooked during the course of a project. It provides a clear roadmap and serves as a reference for progress tracking. Here's an example of a project checklist:
 
-    Copy Code- [ ] Define project scope and objectives
+    - [ ] Define project scope and objectives
     - [ ] Create project timeline
     - [ ] Assign tasks to team members
     - [ ] Conduct research and gather data
@@ -47,7 +47,7 @@ A project checklist helps ensure that no essential steps or components are overl
 
 A meeting agenda outlines the topics to be discussed during a meeting. It allows participants to come prepared and ensures that all necessary points are covered. Here's an example of a meeting agenda:
 
-    Copy CodeMeeting Agenda
+    Meeting Agenda
 
     1. Introduction and welcome
     2. Review of previous meeting minutes
@@ -62,7 +62,7 @@ A meeting agenda outlines the topics to be discussed during a meeting. It allows
 
 A brainstorming list captures ideas and concepts during a brainstorming session. It encourages free thinking and creativity while ensuring that no potential ideas are forgotten. Here's an example of a brainstorming list:
 
-    Copy Code- New marketing campaign ideas
+    - New marketing campaign ideas
       - Social media contests
       - Influencer collaborations
       - User-generated content campaigns

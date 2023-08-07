@@ -8,7 +8,7 @@ In this chapter, we will explore valuable tips and techniques that will help you
 
 To utilize lists effectively, it's important to capture all your tasks, ideas, and commitments in one central place. Make it a habit to regularly jot down any thoughts or tasks that come to mind, ensuring nothing gets overlooked. By capturing everything, you can clear your mind and have a comprehensive overview of what needs to be done.
 
-    markdownCopy Code## Example:
+    ## Example:
     - Carry a small notebook or use a note-taking app on your phone to capture ideas and tasks on the go.
     - Set aside dedicated time each day to review and update your lists.
 
@@ -17,7 +17,7 @@ To utilize lists effectively, it's important to capture all your tasks, ideas, a
 
 Not all tasks are created equal. Prioritizing tasks helps you focus on what truly matters and ensures you allocate your time and energy wisely. Assign priorities to your tasks, whether through numbering, color-coding, or using labels. This will help you determine which tasks require immediate attention and which can be tackled later.
 
-    markdownCopy Code## Example:
+    ## Example:
     - Use numbers (1, 2, 3) or letters (A, B, C) to indicate task priority.
     - Color-code tasks based on urgency (e.g., red for urgent, yellow for important but not urgent).
 
@@ -26,7 +26,7 @@ Not all tasks are created equal. Prioritizing tasks helps you focus on what trul
 
 Complex tasks can feel overwhelming and difficult to tackle. To make them more manageable, break them down into smaller, actionable steps. Breaking down tasks not only clarifies the necessary actions but also provides a sense of progress as you complete each subtask.
 
-    markdownCopy Code## Example:
+    ## Example:
     - Instead of listing "Prepare presentation," break it down into "Research topic," "Create slides," "Practice delivery," etc.
     - Use indentation or sub-lists to visually represent the hierarchy of tasks and subtasks.
 
@@ -35,7 +35,7 @@ Complex tasks can feel overwhelming and difficult to tackle. To make them more m
 
 Assigning deadlines to your tasks helps create a sense of urgency and ensures timely completion. Be realistic when setting deadlines, considering the complexity and priority of each task. Review your deadlines regularly and adjust them if necessary to accommodate changing circumstances.
 
-    markdownCopy Code## Example:
+    ## Example:
     - Add specific due dates to tasks (e.g., "Submit report by August 15").
     - Set reminders or alerts to notify you when a deadline is approaching.
 
@@ -44,7 +44,7 @@ Assigning deadlines to your tasks helps create a sense of urgency and ensures ti
 
 Take time to review and update your lists regularly. This practice enables you to stay organized, identify any missed or overdue tasks, and make necessary adjustments. Regular reviews also help you reevaluate priorities and ensure your lists align with your goals and current circumstances.
 
-    markdownCopy Code## Example:
+    ## Example:
     - Schedule weekly or daily reviews to assess the progress of your tasks.
     - Cross off completed tasks and remove or reschedule irrelevant or unattainable ones.
 
@@ -53,7 +53,7 @@ Take time to review and update your lists regularly. This practice enables you t
 
 Organize your tasks using categories or contexts that are meaningful to you. Group related tasks together to improve focus and efficiency. Categories can be based on different areas of your life, projects, or even the context in which tasks need to be completed.
 
-    markdownCopy Code## Example:
+    ## Example:
     - Personal: Tasks related to personal errands, hobbies, or self-care.
     - Work: Tasks related to professional responsibilities or projects.
     - Home: Tasks related to household chores or maintenance.
@@ -63,7 +63,7 @@ Organize your tasks using categories or contexts that are meaningful to you. Gro
 
 While customization is important, it's equally crucial to keep your lists simple and easy to understand. Avoid overwhelming yourself with unnecessary complexity. Strive for clarity and simplicity in your list-making process, allowing you to quickly grasp the information at hand.
 
-    markdownCopy Code## Example:
+    ## Example:
     - Use clear and concise language when writing task descriptions.
     - Avoid excessive formatting or unnecessary details that may complicate your lists.
 
@@ -72,7 +72,7 @@ While customization is important, it's equally crucial to keep your lists simple
 
 Take advantage of technology tools and apps to enhance your list-making experience. There are numerous digital task management apps, note-taking software, and productivity tools available that offer features like reminders, notifications, collaboration options, and syncing across devices. Find the tools that align with your preferences and make the process more convenient and efficient.
 
-    markdownCopy Code## Example:
+    ## Example:
     - Todoist: A versatile task management app with cross-platform integration.
     - Microsoft To Do: A simple and user-friendly app for creating and managing lists.
     - Evernote: A flexible app for capturing ideas and organizing information.
