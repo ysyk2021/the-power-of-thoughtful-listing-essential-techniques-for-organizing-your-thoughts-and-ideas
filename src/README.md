@@ -1,4 +1,3 @@
-# Introduction
 
 "The Power of Thoughtful Listing: Essential Techniques for Organizing Your Thoughts and Ideas" is a comprehensive guide to the art of list-making and its tremendous benefits in our personal and professional lives.
 

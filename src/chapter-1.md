@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 This chapter will introduce the concept of thoughtful listing and its benefits for organizing thoughts and ideas.
 

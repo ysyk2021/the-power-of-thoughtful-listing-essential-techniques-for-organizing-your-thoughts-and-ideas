@@ -1,5 +1,3 @@
-Chapter 2: Understanding the Brain's Information Processing
-===========================================================
 
 List making is an effective tool for organizing and managing information. To fully understand its benefits, it's important to have a basic understanding of how the brain processes and retains information.
 

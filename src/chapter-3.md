@@ -1,5 +1,3 @@
-Chapter 3: Types of Lists
-=========================
 
 List making is a versatile tool that can be applied to many different areas of life. This chapter will explore the different types of lists and their various purposes.
 

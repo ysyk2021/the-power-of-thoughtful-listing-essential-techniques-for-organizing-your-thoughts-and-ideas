@@ -1,5 +1,3 @@
-Chapter 7: Applying Thoughtful Listing to Daily Life
-====================================================
 
 Using Thoughtful Listing as a Tool for Daily Tasks and Activities
 -----------------------------------------------------------------

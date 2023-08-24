@@ -1,5 +1,3 @@
-Chapter 5: Using Technology to Enhance Listing
-==============================================
 
 Technology has revolutionized the way we organize and manage information. This chapter will explore the advantages of using technology to enhance list making and some of the best tools and software available for digital listing.
 
