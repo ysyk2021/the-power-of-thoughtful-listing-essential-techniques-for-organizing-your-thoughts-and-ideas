@@ -26,3 +26,4 @@
   - [Identifying the best methods for personal organization and productivity](chapter-8-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

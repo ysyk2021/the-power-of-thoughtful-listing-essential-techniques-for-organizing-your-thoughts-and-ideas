@@ -1,3 +1,6 @@
+# The Power of Thoughtful Listing: Essential Techniques for Organizing Your Thoughts and Ideas
+
+Book Link: [https://zhengpublishing.com/the-power-of-thoughtful-listing-essential-techniques-for-organizing-your-thoughts-and-ideas/](https://zhengpublishing.com/the-power-of-thoughtful-listing-essential-techniques-for-organizing-your-thoughts-and-ideas/)
 
 "The Power of Thoughtful Listing: Essential Techniques for Organizing Your Thoughts and Ideas" is a comprehensive guide to the art of list-making and its tremendous benefits in our personal and professional lives.
 
